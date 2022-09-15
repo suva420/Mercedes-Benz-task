@@ -2,6 +2,7 @@
 ## Requirements
 
   * Python 3.10
+  * Plotly 5.5.0
   > No other external libraries have been used
   
 
